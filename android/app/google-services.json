@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "155769174894",
+    "project_id": "agriease-56074",
+    "storage_bucket": "agriease-56074.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155769174894:android:74d47a5731a9fc96fa9f7f",
+        "android_client_info": {
+          "package_name": "com.example.agriease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155769174894-npadof758ad28u9411euou46tleil29p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHEls7T4s9M-w7Agb5JkrRMyUP0wR6pOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155769174894-npadof758ad28u9411euou46tleil29p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
